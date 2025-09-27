@@ -1,5 +1,5 @@
 import React from 'react'
-import '../style/aboutus style/Hero_section1.css'
+import '../style/aboutus style/Hero_section.css'
 function Hero_section() {
     return (
         <>
