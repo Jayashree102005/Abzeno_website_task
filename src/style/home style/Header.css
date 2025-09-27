@@ -1,0 +1,23 @@
+.heading {
+    margin-top: 30px;
+    text-align: center;
+}
+
+.heading button {
+    border-radius: 8px;
+    border: 2px solid black;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    margin-top: 5px;
+}
+
+.bg1 {
+    background-image: url('../../assets/home imgs/bg1.jpg');
+    width: 100%;
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}

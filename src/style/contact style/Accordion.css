@@ -1,0 +1,28 @@
+.faq {
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.faq1 {
+    margin-left: 80px;
+}
+
+.faq2 {
+    margin-left: 80px;
+}
+
+.accordion {
+    margin-top: 70px;
+}
+
+.title {
+    text-align: center;
+}
+
+.accordion-header {
+    padding: 5px;
+}
+
+.accordion-button {
+    width: 500px;
+}

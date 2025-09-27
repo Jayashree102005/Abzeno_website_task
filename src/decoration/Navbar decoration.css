@@ -1,0 +1,38 @@
+/*NAVBAR*/
+.nav ul li h1 {
+     font-size: 35px;
+     font-weight: bold;
+     color: black;
+}
+.center{
+     color: #4C4C4C;
+}
+.nav ul li {
+     font-family: 'Archivo';
+     font-size: 18px;
+}
+
+.nav li button {
+     border-radius: 9px;
+     background-color: white;
+     color: #4C4C4C;
+     border: 2px solid #4C4C4C
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+.center a{
+     color: #4C4C4C;
+}
+.center a:hover{
+    color: #4C4C4C
+}
+.center a:active{
+     color: black;
+     font-weight: bold;
+}
+a:hover{
+     color: black;
+}

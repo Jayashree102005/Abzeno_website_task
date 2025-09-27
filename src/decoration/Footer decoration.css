@@ -1,0 +1,15 @@
+/*FOOTER*/
+#footer {
+     background-color: black;
+     font-family: 'Assistant';
+}
+
+.container2 {
+     color: white;
+     font-weight: 400;
+}
+
+.footernav ul li {
+     color: white;
+     font-weight: 400;
+}

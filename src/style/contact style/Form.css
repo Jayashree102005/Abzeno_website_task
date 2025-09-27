@@ -1,0 +1,53 @@
+label {
+  width: 100%;
+  padding-top: 20px;
+  margin-bottom: 15px;
+  text-align: left;
+}
+
+input {
+  display: block;
+  width: 100%;
+  padding: 12px;
+  padding-right: 110px;
+  box-sizing: border-box;
+  border-radius: 8px;
+  border: 1px solid rgb(159, 159, 159);
+}
+
+form {
+  margin-left: 70px;
+  margin-top: 27px;
+}
+
+.message input {
+  padding-bottom: 120px;
+}
+
+.formbutton {
+  width: 100%;
+  margin-top: 20px;
+  padding: 9px;
+  border-radius: 8px;
+}
+
+input {
+  border: 2px solid #ccc;
+  transition: border-color 0.3s ease;
+}
+
+input:focus {
+  border-color: #007bff;
+  outline: none;
+}
+
+input:valid {
+  border-color: #007bff;
+}
+
+input:invalid:not(:focus):not(:placeholder-shown) {
+  border-color: red;
+}
+.mobiletext{
+  display: none;
+}

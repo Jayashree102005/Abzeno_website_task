@@ -1,0 +1,20 @@
+.successlist {
+    display: flex;
+}
+
+.success {
+    margin-left: 110px;
+    padding-top: 30px;
+}
+
+.successtext {
+    margin-top: 20px;
+    margin-left: 110px;
+    padding-right: 112px;
+    margin-bottom: 30px;
+}
+
+.successbg {
+    background-color: #EEEEEE;
+    margin-bottom: 90px;
+}

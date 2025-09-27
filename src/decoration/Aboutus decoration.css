@@ -1,0 +1,157 @@
+/*HER0_SECTION*/
+.hero-section1 {
+    font-family: 'Archivo';
+}
+
+.float-text h5 {
+    font-size: 20px;
+    color: #4C4C4C;
+    border: 2px solid #4C4C4C;
+}
+
+.float-text i {
+    font-size: 20px;
+    color: black;
+}
+
+.form-section button {
+    color: #EEEEEE;
+    font-size: 20px;
+}
+
+.hero-content1 h1 {
+    font-size: 58px;
+    font-weight: 700;
+    color: black;
+}
+
+.hero-content1 h6 {
+    font-size: 20px;
+    font-weight: 500;
+    color: black;
+}
+
+/*MEET_ABZENO*/
+.meet-header h1 {
+    font-family: 'Archivo';
+    font-weight: 700;
+    font-size: 58px;
+    color: black;
+}
+
+.meet-container {
+    font-family: 'Archivo';
+    font-size: 34px;
+    font-weight: 400;
+    letter-spacing: 5px;
+    color: black;
+    background-color: #EEEEEE;
+}
+
+/*SHOWCASE_CARDS*/
+.showcase-title {
+    font-family: 'Archivo';
+}
+
+.showcase-title h4 {
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 4px;
+    color: black;
+}
+
+.showcase-title h1 {
+    font-size: 58px;
+    font-weight: 700;
+    color: black;
+}
+
+.showcase-cards {
+    font-family: 'Archivo';
+}
+
+.showcase-cards h1 {
+    font-size: 37px;
+    font-weight: 700;
+    color: black;
+}
+
+.showcase-cards h6 {
+    font-size: 24px;
+    font-weight: 500;
+    color: black;
+}
+
+.showcase a {
+    font-size: 35px;
+    font-weight: 700;
+    color: #0077FF;
+    text-decoration: underline;
+}
+
+.showcase-cards:hover {
+    box-shadow: 0px 4px 6px -2px #0077FF1A,
+        0px 12px 16px -4px #0077FF33;
+    transition: all 0.3s ease;
+}
+
+/*SUCCESS*/
+.success {
+    font-family: 'Archivo';
+    color: black;
+}
+
+.success h4 {
+    font-size: 30px;
+    font-weight: 400;
+}
+
+.success h1 {
+    font-size: 55px;
+    font-weight: 700;
+}
+
+.bluetext {
+    color: #0077FF;
+}
+
+.successtext h3 {
+    font-weight: 600;
+    font-size: 35px;
+    color: #0077FF;
+}
+
+.successtext h4 {
+    font-weight: 400;
+    font-size: 28px;
+    color: black;
+}
+
+/*ABOUTUS_SECTION*/
+.main-content1 {
+    font-family: 'Archivo';
+}
+
+.main-content1 h1 {
+    font-weight: 700;
+    font-size: 57px;
+    color: black;
+}
+
+.main-content1 h6 {
+    font-weight: 500;
+    font-size: 20px;
+    color: black;
+}
+
+.main-content2 h3 {
+    font-size: 27px;
+    font-weight: 700;
+    color: black;
+}
+
+.main-content2 h5 {
+    font-size: 20px;
+    font-weight: 500;
+    color: #4C4C4C;
+}

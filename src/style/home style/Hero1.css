@@ -1,0 +1,30 @@
+.hero1 h6 {
+    margin-left: 30px;
+}
+
+.hero1content {
+    margin-right: 35px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.row {
+    justify-content: center;
+}
+
+.vertical {
+    border-left: 2px solid #A6A6A6;
+    height: 50px;
+    display: inline-block;
+}
+
+.hero1 {
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
+
+.verline1 {
+    border-left: 2px solid #A6A6A6;
+    height: 50px;
+    display: inline-block;
+}

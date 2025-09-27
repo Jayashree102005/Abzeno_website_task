@@ -1,0 +1,53 @@
+.cards {
+  width: 423px;
+  height: 563px;
+  border-radius: 12px;
+  border: 1px solid #EEEEEE;
+  padding: 10px 10px;
+  transition: 0.3s;
+  display: inline-block;
+  text-align: center;
+  margin-left: 30px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+.icon {
+  width: 100%;
+  height: 250px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+  overflow: hidden;
+  border-radius: 20px;
+}
+
+.icon img {
+  width: 163px;
+}
+
+.cards h1 {
+  margin-bottom: 10px;
+}
+
+.cards h6 {
+  line-height: 31px;
+  width: 310px;
+  margin-left: 50px;
+  margin-bottom: 20px;
+}
+
+.cards:hover {
+  transform: translateY(-35px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+.cards:hover h1 {
+  transition: color 0.3s ease;
+}
+
+.cards:hover h6 {
+  transition: color 0.3s ease;
+}

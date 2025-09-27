@@ -1,0 +1,22 @@
+.nav ul li {
+    list-style-type: none;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.nav li button {
+    margin-left: 248px;
+}
+
+.nav li p {
+    padding-right: 60px;
+}
+
+.center {
+    margin-left: 250px;
+}
+
+.nav li h1 {
+    margin-left: 80px;
+    padding-top: 20px;
+}

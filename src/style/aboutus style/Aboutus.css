@@ -1,0 +1,24 @@
+.showcase-title {
+    text-align: center;
+}
+
+.showcase-title h4 {
+    margin-left: 50px;
+}
+
+.showcase-title h1 {
+    margin-left: 340px;
+    margin-right: 300px;
+}
+
+.showcase {
+    margin-left: 47px;
+    position: relative;
+    margin-bottom: 70px;
+}
+
+.showcase a {
+    margin-top: 220px;
+    margin-left: 175px;
+    position: absolute;
+}

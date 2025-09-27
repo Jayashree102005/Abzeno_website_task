@@ -1,0 +1,22 @@
+.meet-header h1 {
+    text-align: center;
+}
+
+.meet-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.meet-text {
+    padding: 25px 48px;
+}
+
+.snow {
+    padding: 25px 0px;
+}
+
+.snow img {
+    background-blend-mode: screen;
+}

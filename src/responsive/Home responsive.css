@@ -1,0 +1,396 @@
+@media screen and (max-width:1441px) {
+
+    /*HERO2*/
+    .cards {
+        margin-left: 10px;
+    }
+
+    /*HERO3*/
+    .centertext h1 {
+        font-size: 83px;
+    }
+}
+
+@media screen and (max-width:1024px) {
+
+    /*HEADER*/
+    .bg1 {
+        width: 100%;
+        min-height: 100vh;
+        background-size: auto;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+    /*HERO1*/
+    .hero1 h6 {
+        margin-left: 0;
+        text-align: center;
+    }
+
+    .hero1 .row,
+    .row {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 30px;
+    }
+
+    .row img {
+        width: 80%;
+        margin-right: 2px;
+    }
+    /*HERO2*/
+    .cards {
+        display: block;
+        margin: 20px auto;
+    }
+
+    .herocards {
+        margin-left: 0;
+    }
+    /*HERO3*/
+    .sidetext h1 {
+        width: 50px;
+        margin-left: 20px;
+        height: 10px;
+        margin-top: 145px;
+    }
+
+    .sidetext h6 {
+        width: 50px;
+        margin-left: 25px;
+        height: 100px;
+        margin-top: 140px;
+    }
+
+    .logoimg img {
+        width: 350px;
+    }
+
+    .centertext h1 {
+        font-size: 60px;
+        text-align: justify;
+    }
+
+    .centertext h6 {
+        font-size: 30px;
+        text-align: justify;
+    }
+
+    .line {
+        margin-right: 260px;
+        margin-top: 50px;
+    }
+
+    .centertext {
+        margin-right: 10px;
+        margin-top: 15px;
+    }
+
+    .line1 {
+        margin-left: 150px;
+        margin-right: 150px;
+    }
+
+    .line2 {
+        margin-left: 300px;
+        margin-right: 300px;
+    }
+
+    .line3 {
+        margin-left: 390px;
+        margin-right: 390px;
+    }
+}
+
+@media screen and (max-width:769px) {
+    /*HEADER*/
+    .heading h1 {
+        font-size: 50px;
+    }
+
+    .heading h6 {
+        font-size: 15px;
+    }
+
+    .bg1 img {
+        width: 100%;
+        min-height: 100vh;
+        background-size: contain;
+        background-position: top center;
+        background-repeat: no-repeat;
+    }
+    /*HERO1*/
+    .hero1 .row,
+    .row {
+        font-size: 20px;
+    }
+    /*HERO3*/
+    .sidetext h1 {
+        width: 20px;
+        margin-top: 145px;
+    }
+
+    .sidetext h6 {
+        width: 20px;
+        margin-top: 100px;
+    }
+
+    .logoimg img {
+        width: 300px;
+    }
+
+    .centertext h1 {
+        font-size: 43px;
+        text-align: justify;
+    }
+
+    .centertext h6 {
+        font-size: 20px;
+        text-align: justify;
+    }
+
+    .line {
+        margin-right: 200px;
+        margin-top: 50px;
+    }
+
+    .centertext {
+        margin-top: 25px;
+    }
+
+    .line1 {
+        margin-left: 100px;
+        margin-right: 100px;
+    }
+
+    .line2 {
+        margin-left: 200px;
+        margin-right: 200px;
+    }
+
+    .line3 {
+        margin-left: 300px;
+        margin-right: 300px;
+    }
+}
+
+@media screen and (max-width:426px) {
+    /*HEADER*/
+    .heading h1 {
+        font-size: 30px;
+    }
+
+    .heading h6 {
+        font-size: 15px;
+    }
+
+    .heading button {
+        font-size: 15px;
+    }
+    /*HERO1*/
+    .hero1 .row,
+    .row {
+        font-size: 19px;
+    }
+
+    .hero1content {
+        margin-right: 10px;
+    }
+
+    .hero1 {
+        margin-top: 0;
+    }
+    /*HERO2*/
+    .title h1 {
+        font-size: 30px;
+    }
+    
+    .cards {
+        width: 340px;
+    }
+
+    .cards h6 {
+        line-height: 25px;
+        width: 250px;
+        margin-left: 35px;
+        margin-bottom: 20px;
+    }
+    /*HERO3*/
+    .sidetext h1 {
+        width: 5px;
+        margin-top: 100px;
+        font-size: 20px;
+    }
+
+    .sidetext h6 {
+        width: 5px;
+        margin-top: 10px;
+        font-size: 10px;
+    }
+
+    .logoimg img {
+        width: 160px;
+    }
+
+    .centertext h1 {
+        font-size: 20px;
+        text-align: justify;
+        margin-top: 27px;
+    }
+
+    .centertext h6 {
+        font-size: 10px;
+        text-align: justify;
+        margin-top: 45px;
+    }
+
+    .line {
+        margin-right: 100px;
+        margin-top: 45px;
+        border-bottom: 5px solid #4C4C4C;
+    }
+
+    .centertext {
+        margin-left: 90px;
+    }
+
+    .line1 {
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+
+    .line2 {
+        margin-left: 120px;
+        margin-right: 120px;
+    }
+
+    .line3 {
+        margin-left: 160px;
+        margin-right: 160px;
+    }
+}
+
+@media screen and (max-width:376px) {
+    /*HEADER*/
+    .heading h1 {
+        font-size: 20px;
+    }
+
+    .heading h6 {
+        font-size: 15px;
+    } 
+    /*HERO1*/
+    .row img {
+        width: 70%;
+    }
+
+    .hero1 .row,
+    .row {
+        font-size: 15px;
+    }
+
+    .title h1 {
+        font-size: 30px;
+    }
+    /*HERO3*/
+    .sidetext h6 {
+        width: 5px;
+        margin-top: 1px;
+        font-size: 9px;
+    }
+
+    .logoimg img {
+        width: 150px;
+    }
+
+    .centertext h1 {
+        font-size: 17px;
+        text-align: justify;
+        margin-top: 0px;
+    }
+
+    .centertext h6 {
+        font-size: 9px;
+        text-align: justify;
+        margin-top: 40px;
+    }
+
+    .line {
+        margin-right: 70px;
+        margin-top: 40px;
+        border-bottom: 3px solid #4C4C4C;
+    }
+
+    .centertext {
+        margin-left: 80px;
+    }
+
+    .line1 {
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+
+    .line2 {
+        margin-left: 100px;
+        margin-right: 100px;
+    }
+
+    .line3 {
+        margin-left: 160px;
+        margin-right: 160px;
+    }
+}
+
+@media screen and (max-width:320px) {
+    /*HERO1*/
+    .hero1content {
+        margin-right: 0px;
+    }
+    /*HERO2*/
+    .cards {
+        width: 270px;
+    }
+
+    .cards h6 {
+        margin-left: 0px;
+    }
+    /*HERO3*/
+    .sidetext h1 {
+        margin-top: 95px;
+    }
+
+    .sidetext h6 {
+        font-size: 9px;
+    }
+
+    .logoimg img {
+        width: 146px;
+    }
+
+    .centertext h1 {
+        font-size: 13px;
+    }
+
+    .centertext h6 {
+        font-size: 8px;
+    }
+
+    .line {
+        margin-right: 60px;
+    }
+
+    .centertext {
+        margin-left: 80px;
+    }
+
+    .line2 {
+        margin-left: 90px;
+        margin-right: 90px;
+    }
+
+    .line3 {
+        margin-left: 130px;
+        margin-right: 130px;
+    }
+}
