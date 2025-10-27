@@ -1,0 +1,125 @@
+/*SERVICE_SECTION1*/
+.service_sections{
+     font-family: 'Archivo';
+     color: white;
+}
+.section1text h5{
+  text-align: left;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.section1text h1{
+  text-align: left;
+  font-size: 60px;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+.section1text h4{
+    font-size: 20px;
+    font-weight: 500;
+    color: #EEEEEE;
+}
+.service_button h5{
+    font-size: 20px;
+    color: #FFFFFF;
+    font-weight: 500;
+}
+.service_button button{
+    font-size: 20px;
+    font-weight: 500;
+    color: #EEEEEE;
+    background-color: #0077FF;
+}
+.service_sidetext h1 {
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+    font-size: 30px;
+    color:#0077FF;
+    font-weight: 700;
+}
+.service_sidetext h6 {
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+    font-size: 15px;
+    color: #EEEEEE;
+    font-weight: 400;
+    letter-spacing: 2;
+}
+/*SERVICE_SECTION2*/
+.Service_section2{
+     font-family: 'Archivo';
+     color: black;
+}
+.Service_section2 h5{
+    font-size: 20px;
+    letter-spacing: 3px;
+}
+.Service_section2 h1{
+    font-weight: 700;
+    font-size: 64px;
+}
+.service_cards{
+    font-family: 'Archivo';
+    background-color: #ece9e9 ;
+    color: black;
+}
+.service_cards h1{
+font-size: 24px;
+font-weight: 700;
+}
+.service_cards h4{
+    font-size: 20px;
+}
+.service_cards h5{
+    font-size: 20px;
+}
+.service_cards:hover {
+box-shadow: 0px 4px 6px -2px #0077FF1A,
+        0px 12px 16px -4px #0077FF33;
+    transition: all 0.3s ease;
+}
+.service_cards:hover h5 {
+    color: #007BFF;
+}
+/*SERVICE_SECTION3*/
+.service-section3{
+ background-color: black;
+ font-family: 'Archivo';
+ color: white;
+}
+.service-section3 h5{
+    font-size: 20px;
+}
+.service-section3 h1{
+    font-size: 64px;
+    font-weight: 700;
+    letter-spacing: 2px;
+}
+.ball1 h1{
+font-size: 32px;
+font-weight: 700;
+}
+.ball1 h5{
+    font-size: 16px;
+}
+.ball2 h1{
+font-size: 32px;
+font-weight: 700;
+}
+.ball2 h5{
+    font-size: 16px;
+}
+.ball3 h1{
+font-size: 32px;
+font-weight: 700;
+}
+.ball3 h5{
+    font-size: 16px;
+}
+.ball4 h1{
+font-size: 32px;
+font-weight: 700;
+}
+.ball4 h5{
+    font-size: 16px;
+}

@@ -3,15 +3,12 @@ import '../style/aboutus style/Meet_abzeno.css'
 function Meet_abzeno() {
     return (
         <>
-            <div className="meet-header">
-                <h1>MEET ABZENO.</h1>
-            </div>
             <div className="meet-container">
                     <div className="meet-text">
                        Website Development
                     </div>
                     <div className="snow"><i className="bi bi-snow"></i></div>
-                    <div class="meet-text">
+                    <div className="meet-text">
                         UX/UI Design
                     </div>
                     <div className="snow"><i className="bi bi-snow"></i></div>

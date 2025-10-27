@@ -1,0 +1,646 @@
+@media screen and (max-width:1440px) {
+     /*SERVICE_SECTION2*/
+    .Service_section2 h1{
+    margin-right: 500px;
+}
+ /*SERVICE_SECTION3*/
+.midline1{
+  width: 150px;
+  top:-205px;
+  left:-60px;
+}
+.midline2{
+  width: 150px;
+  top:-205px;
+  left:-95px;
+  padding-left: 100px;
+}
+.midline3{
+  width: 150px;
+  top:-205px;
+  left:-130px;
+}
+
+.ball1{
+    margin-left: 100px;
+}
+.ball2{
+     left: -35px;
+}
+.ball3{
+    left: -70px;
+}
+.ball4{
+    text-align: left;
+    position: relative;
+    left: -100px;
+}
+
+}
+@media screen and (max-width:1024px) {
+/*SERVICE_SECTION1*/
+.section1text {
+  margin-left: 60px;
+  margin-right: 20px;
+}
+.section1text h5{
+  font-size: 16px;
+}
+.section1text h1{
+  font-size: 40px;
+  letter-spacing: 0px;
+}
+.section1text h4{
+    font-size: 16px;
+}
+.service_button button{
+  width: 150px;
+  height: 40px;
+}
+.service_button h5{
+    font-size: 16px;
+}
+.service_button button{
+    font-size: 16px;
+}
+.serviceimg img{
+    width:370px;
+    position: relative;
+    left: -30px;
+}
+.service_sidetext{
+  margin-left: 37px;
+}
+/*SERVICE_SECTION2*/
+.Service_section2{
+ margin-left: 60px;
+}
+.Service_section2 h1{
+    margin-right: 350px;
+}
+.Service_section2 h5{
+    font-size: 16px;
+    letter-spacing: 0px;
+}
+.Service_section2 h1{
+    font-size: 45px;
+}
+.service_sectioncards{
+  margin: 0px 25px;
+  margin-bottom: 40px;
+}
+/*SERVICE_SECTION3*/
+.service-section3 h5{
+    font-size: 16px;
+}
+.service-section3 h1{
+    font-size: 50px;
+    letter-spacing: 2px;
+}
+.ball1{
+    margin-left: 70px;
+}
+.ball2{
+     left: -30px;
+}
+.ball3{
+    left: -50px;
+}
+.ball4{
+    left: -70px;
+}
+.ball1 h1{
+font-size: 20px;
+}
+.ball1 h5{
+    font-size: 11px;
+}
+.ball2 h1{
+font-size: 20px;
+}
+.ball2 h5{
+    font-size: 11px;
+}
+.ball3 h1{
+font-size: 20px;
+}
+.ball3 h5{
+    font-size: 11px;
+}
+.ball4 h1{
+font-size: 20px;
+}
+.ball4 h5{
+    font-size: 11px;
+}
+.ball1 img{
+    width:130px;
+}
+.ball2 img{
+    width:130px;
+}
+.ball3 img{
+    width:130px;
+}
+.ball4 img{
+    width:130px;
+}
+.midline1{
+  width: 250px;
+  padding-left: 0px;
+  top:-150px;
+  left:-40px;
+}
+.midline2{
+  width: 250px;
+  padding-left: 0px;
+  top:-150px;
+  left:-65px;
+}
+.midline3{
+  width: 250px;
+  padding-left: 0px;
+  top:-150px;
+  left:-85px;
+}
+}
+@media screen and (max-width:769px) {
+/*SERVICE_SECTION1*/
+.section1text {
+  margin-left: 40px;
+  margin-right: 0px;
+}
+.section1text h5{
+  font-size: 12px;
+}
+.section1text h1{
+  font-size: 30px;
+}
+.section1text h4{
+    font-size: 14px;
+}
+.service_button button{
+  width: 140px;
+  height: 30px;
+}
+.service_button h5{
+    font-size: 12px;
+     margin-left: 15px;
+}
+.service_button button{
+    font-size: 15px;
+}
+.serviceimg img{
+    width:300px;
+    left: -50px;
+}
+.service_sidetext{
+  margin-left: 27px;
+}
+.service_sidetext h6 {
+  margin-top: 0px;
+  font-size: 10px;
+
+}
+.service_sidetext h1 {
+    font-size: 20px;
+    margin-top: 70px;
+}
+/*SERVICE_SECTION2*/
+.Service_section2{
+ margin-left: 0px;
+ text-align: center;
+}
+.Service_section2 h1{
+    margin-right: 0px;
+    padding-right: 190px;
+    padding-left: 190px;
+    font-size: 30px;
+}
+/*SERVICE_SECTION3*/
+.service-section3 h1{
+    font-size: 30px;
+}
+.ball1{
+    margin-left: 40px;
+}
+.ball2{
+     left: -20px;
+}
+.ball3{
+    left: -30px;
+}
+.ball4{
+    left: -45px;
+}
+.ball1 h1{
+font-size: 15px;
+}
+.ball1 h5{
+    font-size: 10px;
+}
+.ball2 h1{
+font-size: 15px;
+}
+.ball2 h5{
+    font-size: 10px;
+}
+.ball3 h1{
+font-size: 15px;
+}
+.ball3 h5{
+    font-size: 10px;
+}
+.ball4 h1{
+font-size: 15px;
+}
+.ball4 h5{
+    font-size: 10px;
+}
+.ball1 img{
+    width:100px;
+}
+.ball2 img{
+    width:100px;
+}
+.ball3 img{
+    width:100px;
+}
+.ball4 img{
+    width:100px;
+}
+.midline1{
+  width: 250px;
+  padding-left: 0px;
+  top:-140px;
+  left:-30px;
+}
+.midline2{
+  width: 250px;
+  padding-left: 0px;
+  top:-140px;
+  left:-45px;
+}
+.midline3{
+  width: 250px;
+  padding-left: 0px;
+  top:-140px;
+  left:-55px;
+}
+.workprocess{
+    padding-top: 60px;
+}
+}
+@media screen and (max-width:426px) {
+/*SERVICE_SECTION1*/
+.section1text {
+  margin-left: 10px;
+  margin-right: 0px;
+}
+.section1text h5{
+  font-size: 10px;
+}
+.section1text h1{
+  font-size: 15px;
+  margin-right: 50px;
+}
+.section1text h4{
+    font-size: 10px;
+    margin-right: 40px;
+}
+.service_button button{
+  width: 90px;
+  height: 20px;
+  font-size: 10px;
+  margin-top: 10px;
+  margin-left: -120px;
+}
+.service_button h5{
+    font-size: 10px;
+     margin-left: -100px;
+     margin-top: -20px;
+}
+.service_button{
+    display: inline-block;
+}
+.serviceimg img{
+    width:200px;
+    left: -40px;
+}
+.service_sidetext{
+  margin-left: -40px;
+}
+.service_sidetext h6 {
+  margin-top: 0px;
+  font-size: 10px;
+  height: 80px;
+
+}
+.service_sidetext h1 {
+    font-size: 15px;
+    margin-top: 50px;
+    margin-left: 109px;
+    margin-bottom: 20px;
+}
+/*SERVICE_SECTION2*/
+.Service_section2 h1{
+    padding-right: 100px;
+    padding-left: 100px;
+    font-size: 20px;
+}
+/*SERVICE_SECTION3*/
+.service-section3 h1{
+    font-size: 25px;
+}
+.workprocess{
+    padding-top: 50px;
+}
+
+.ball1{
+    margin-left: 15px;
+}
+.ball2{
+     left: 0px;
+}
+.ball3{
+    left: 0px;
+}
+.ball4{
+    left: -15px;
+}
+.ball1 h1{
+font-size: 10px;
+padding-top: 10px;
+}
+.ball1 h5{
+    font-size: 9px;
+}
+.ball2 h1{
+font-size: 10px;
+padding-top: 10px;
+}
+.ball2 h5{
+    font-size: 9px;
+}
+.ball3 h1{
+font-size: 10px;
+padding-top: 10px;
+}
+.ball3 h5{
+    font-size: 9px;
+    padding-right: 20px;
+}
+.ball4 h1{
+font-size: 10px;
+padding-top: 10px;
+}
+.ball4 h5{
+    font-size: 9px;
+}
+.ball1 img{
+    width:60px;
+}
+.ball2 img{
+    width:60px;
+}
+.ball3 img{
+    width:60px;
+}
+.ball4 img{
+    width:60px;
+}
+.midline1{
+  width: 150px;
+  padding-left: 0px;
+  top:-150px;
+  left:-12px;
+}
+.midline2{
+  width: 150px;
+  padding-left: 0px;
+  top:-150px;
+  left:-10px;
+}
+.midline3{
+  width: 150px;
+  padding-left: 0px;
+  top:-150px;
+  left:-25px;
+}
+}
+@media screen and (max-width:376px) {
+/*SERVICE_SECTION1*/
+.service_button button{
+  font-size: 9px;
+  margin-left: -90px;
+}
+.service_button h5{
+    font-size: 10px;
+     margin-left: -85px;
+     margin-top: -20px;
+}
+.serviceimg img{
+    width:180px;
+    left: -40px;
+}
+.service_sidetext{
+  margin-left: -50px;
+}
+/*SERVICE_SECTION2*/
+.Service_section2 h1{
+    padding-right: 80px;
+    padding-left: 80px;
+    font-size: 20px;
+}
+.service_cards h1{
+font-size: 20px;
+}
+/*SERVICE_SECTION3*/
+.service-section3 h1{
+    font-size: 22px;
+}
+.ball1{
+    margin-left: 10px;
+}
+.ball2{
+     left: 0px;
+}
+.ball3{
+    left: 6px;
+}
+.ball4{
+    left: -5px;
+}
+.ball1 h1{
+font-size: 9px;
+padding-top: 10px;
+padding-bottom: 10px;
+}
+.ball1 h5{
+    font-size: 8px;
+}
+.ball2 h1{
+    padding-top: 10px;
+font-size: 9px;
+padding-bottom: 10px;
+}
+.ball2 h5{
+    font-size: 8px;
+}
+.ball3 h1{
+    padding-top: 10px;
+font-size: 9px;
+padding-bottom: 10px;
+}
+.ball3 h5{
+    font-size: 8px;
+}
+.ball4 h1{
+    padding-top: 9px;
+font-size: 10px;
+}
+.ball4 h5{
+    font-size: 8px;
+}
+.ball1 img{
+    width:55px;
+}
+.ball2 img{
+    width:55px;
+}
+.ball3 img{
+    width:55px;
+}
+.ball4 img{
+    width:55px;
+}
+.midline1{
+  width: 150px;
+  padding-left: 0px;
+  top:-149px;
+  left:-12px;
+}
+.midline2{
+  width: 150px;
+  padding-left: 0px;
+  top:-149px;
+  left:-4px;
+}
+.midline3{
+  width: 150px;
+  padding-left: 0px;
+  top:-149px;
+  left:-17px;
+}
+}
+@media screen and (max-width:321px) {
+/*SERVICE_SECTION1*/
+.section1text h1{
+  margin-right: 20px;
+}
+.section1text h4{
+  margin-right: 40px; 
+}
+.service_button button{
+  margin-left: -60px;
+}
+.service_button h5{
+    font-size: 9px;
+    margin-left: -55px;
+     margin-top: -20px;
+}
+.serviceimg img{
+    width:160px;
+    left: -40px;
+    top:40px;
+}
+.service_sidetext{
+  margin-left: -60px;
+}
+/*SERVICE_SECTION2*/
+.Service_section2 h1{
+    padding-right: 50px;
+    padding-left: 50px;
+}
+.service_cards h1{
+font-size: 15px;
+}
+/*SERVICE_SECTION3*/
+.service-section3 h1{
+    font-size: 22px;
+}
+.ball1{
+    margin-left: 10px;
+}
+.ball2{
+     left: 0px;
+}
+.ball3{
+    left: 5px;
+}
+.ball4{
+    left: 0px;
+}
+.ball1 h1{
+font-size: 7px;
+padding-top: 10px;
+padding-bottom: 0px;
+}
+.ball1 h5{
+    font-size: 7px;
+}
+.ball2 h1{
+    padding-top: 10px;
+font-size: 7px;
+padding-bottom: 0px;
+}
+.ball2 h5{
+    font-size: 7px;
+}
+.ball3 h1{
+    padding-top: 10px;
+font-size: 7px;
+padding-bottom: 0px;
+}
+.ball3 h5{
+    font-size: 7px;
+    padding-right: 5px;
+}
+.ball4 h1{
+    padding-top: 10px;
+font-size: 7px;
+padding-bottom: 0px;
+}
+.ball4 h5{
+    font-size: 7px;
+}
+.ball1 img{
+    width:55px;
+}
+.ball2 img{
+    width:55px;
+}
+.ball3 img{
+    width:55px;
+}
+.ball4 img{
+    width:55px;
+}
+.midline1{
+  width: 50px;
+  top:-116px;
+  left:-8px;
+}
+.midline2{
+  width: 50px;
+  padding-left: 0px;
+  top:-116px;
+  left:-4px;
+}
+.midline3{
+  width: 50px;
+  padding-left: 0px;
+  top:-116px;
+  left:-10px;
+}
+}

@@ -1,0 +1,54 @@
+.service-section3{
+padding-top: 35px;
+text-align: center;
+}
+.workprocess{
+    padding-top: 80px;
+    display: flex;
+    padding-bottom: 50px;
+}
+.midline1{
+  border-bottom: 4px solid #FFFFFF;
+  width: 200px;
+  position: relative;
+  top:-204px;
+  left:-65px;
+  padding-left: 100px;
+}
+.midline2{
+  border-bottom: 4px solid #FFFFFF;
+  width: 200px;
+  position: relative;
+  top:-204px;
+  left:-110px;
+  padding-left: 100px;
+}
+.midline3{
+  border-bottom: 4px solid #FFFFFF;
+  width: 200px;
+  position: relative;
+  top:-204px;
+  left:-160px;
+  padding-left: 100px;
+}
+
+.ball1{
+    text-align: left;
+    margin-left: 150px;
+    position: relative;
+}
+.ball2{
+    text-align: left;
+     position: relative;
+     left: -45px;
+}
+.ball3{
+    text-align: left;
+    position: relative;
+    left: -90px;
+}
+.ball4{
+    text-align: left;
+    position: relative;
+    left: -140px;
+}

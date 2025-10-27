@@ -1,0 +1,59 @@
+.service_sections{
+  display: flex;
+  background-color: black;
+}
+.section1text {
+  margin-left: 110px;
+  margin-right: 20px;
+}
+.section1text h5{
+  text-align: left;
+  padding-top: 50px;
+}
+.section1text h1{
+  margin-right: 100px;
+}
+.section1text h4{
+  margin-right: 70px; 
+  text-align: left;
+}
+.service_button{
+  display: flex;
+}
+.service_button button{
+  border-radius: 8px;
+  border: 2px solid white;
+  width: 194px;
+  height: 49px;
+  margin-top: 20px;
+}
+.service_button h5{
+  margin-left: 50px;
+  padding-top: 30px;
+}
+.serviceimg{
+  margin-top: 60px;
+}
+.service_sidetext{
+  margin-left: 140px;
+}
+.service_sidetext h1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 100px;
+  height: 33px;
+  margin-left: 103px;
+  margin-top: 110px;
+}
+
+.service_sidetext h6 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 100px;
+  height: 123px;
+  margin-left: 113px;
+  margin-top: 55px;
+  text-align: left;
+}

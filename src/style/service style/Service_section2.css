@@ -1,0 +1,42 @@
+.Service_section2{
+ margin-left: 110px;
+}
+.Service_section2 h1{
+    margin-right: 700px;
+}
+.service_cards{
+    width: 399px;
+    border-radius: 10px;
+    border: 1px solid #A6A6A6;
+    padding: 20px 20px;
+    transition: 0.3s;
+    display: inline-block;
+    text-align: justify;
+    box-shadow: 0px 4px 6px -2px rgba(0, 0, 0, 0.03),
+        0px 12px 16px -4px rgba(0, 0, 0, 0.08);
+    transition: all 0.3s ease;
+    cursor: pointer;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    align-items: center;
+}
+.img_icons img{
+    padding-left: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.service_cards h4{
+    padding-right: 20px;
+}
+.service_cards h5{
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+.service_sectioncards{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: 0px 70px;
+  margin-bottom: 40px;
+}

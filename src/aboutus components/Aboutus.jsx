@@ -15,6 +15,9 @@ function Aboutus() {
     <>
       <Navbar />
       <Hero_section />
+      <div className="meet-header">
+        <h1>MEET ABZENO.</h1>
+      </div>
       <Meet_abzeno />
       <div className="showcase-title">
         <h4>#Our Latest Projects</h4>
